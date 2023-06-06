@@ -1,4 +1,4 @@
-baseurl = "https://drmsr.dev"
+baseurl = ""
 title = "render()"
 theme = "hugo-coder"
 languagecode = "en"
