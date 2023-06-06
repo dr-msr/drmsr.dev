@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://drmsr.dev/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://drmsr.dev/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://drmsr.dev/posts/cubaan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://drmsr.dev/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://drmsr.dev/</loc>
+  </url>
+  
+  <url>
+    <loc>https://drmsr.dev/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://drmsr.dev/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://drmsr.dev/tags/the-hub/</loc>
+  </url>
+  
+  <url>
+    <loc>https://drmsr.dev/posts/intro/</loc>
+  </url>
+  
+</urlset>
