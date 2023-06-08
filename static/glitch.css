@@ -3,7 +3,7 @@
 }
 
 .boxGlitch {
-    margin:1em;
+    margin-top:2em;
 }
 .glitch {
     text-align: center;
@@ -37,11 +37,12 @@
   margin-top:-150px;
 }
 .logonoglitch2 {
-  filter:invert(100%) blur(5px);
+  filter:invert(100%) blur(10px);
   max-width:150px;
   position:absolute;
   margin-left:-75px;
   margin-top:-150px;
+  animation: pulsating 4s infinite;
 }
 .logoglitch {
     filter:invert(100%);
@@ -66,6 +67,19 @@
   }
 
   /*Keyframes*/
+
+  @keyframes pulsating {
+    0% {
+      opacity: 0;
+    }
+    30% {
+      opacity:1;
+    }
+    100% {
+      opacity:0;
+    }
+
+  }
   
   @keyframes glitch1 {
     0% {
