@@ -2,25 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>render()</title>
-    <link>https://drmsr.dev/</link>
+    <link>/</link>
     <description>Recent content on render()</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://drmsr.dev/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 07 Jun 2023 01:19:49 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cubaan Tambahan</title>
-      <link>https://drmsr.dev/posts/cubaan/</link>
+      <title>A new beginning.</title>
+      <link>/posts/2023-06-07-01-15-59/</link>
+      <pubDate>Wed, 07 Jun 2023 01:19:49 +0800</pubDate>
+      
+      <guid>/posts/2023-06-07-01-15-59/</guid>
+      <description>Testing.
+So, it took me a while to create this site.</description>
+    </item>
+    
+    <item>
+      <title>cubaan ke arah github</title>
+      <link>/posts/kearahgithub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://drmsr.dev/posts/cubaan/</guid>
+      <guid>/posts/kearahgithub/</guid>
+      <description>Ini adalah cubaan github kedua rupanya nama branch ini master bukannya main</description>
+    </item>
+    
+    <item>
+      <title>Cubaan Tambahan</title>
+      <link>/posts/cubaan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/cubaan/</guid>
       <description>Ini adalah percubaan kali kedua.</description>
     </item>
     
     <item>
       <title>This Is An Introduction</title>
-      <link>https://drmsr.dev/posts/intro/</link>
+      <link>/posts/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://drmsr.dev/posts/intro/</guid>
+      <guid>/posts/intro/</guid>
       <description>Cubaan saja dulu.</description>
     </item>
     

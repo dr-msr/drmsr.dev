@@ -27,6 +27,44 @@
     color: #f16f6f;
     animation: glitch3 3.5s infinite;
   }
+
+
+.logonoglitch {
+  filter:invert(100%);
+  max-width:150px;
+  position:absolute;
+  margin-left:-75px;
+  margin-top:-150px;
+}
+.logonoglitch2 {
+  filter:invert(100%) blur(5px);
+  max-width:150px;
+  position:absolute;
+  margin-left:-75px;
+  margin-top:-150px;
+}
+.logoglitch {
+    filter:invert(100%);
+    max-width:100px;
+    /* position:absolute;
+    /*Create overlap*/
+      /*Animation*/
+    
+    animation: logoglitch1 2.5s infinite;
+  }
+  
+  .logoglitch:nth-child(2) {
+    color: #67f3da;
+    animation: glitch2 2.5s infinite;
+    filter:blur(50%);
+  }
+  
+  .logoglitch:nth-child(3) {
+    color: #f16f6f;
+    filter:invert(50%);
+    animation: glitch3 2.5s infinite;
+  }
+
   /*Keyframes*/
   
   @keyframes glitch1 {
